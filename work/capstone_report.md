@@ -1,6 +1,6 @@
 # Capstone Report — Refresh / Content Opportunity Scoring
 
-- **Author:** Asad Naeem
+- **Author:** Asadullah Naeem — AI Engineer
 - **Lane:** Refresh / Content Opportunity Scoring
 - **Repo:** https://github.com/Asadnaeem23/flyrank-ml-internship
 - **Date:** March 2026
