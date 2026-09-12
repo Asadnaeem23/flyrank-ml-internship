@@ -1,0 +1,15 @@
+{
+  "total_portfolio_items": 30000,
+  "unique_clients": 32,
+  "actionable_queue_items": 14772,
+  "monitoring_queue_items": 15228,
+  "tier_distribution": {
+    "Tier 1 (Refresh Stale Decay)": 7107,
+    "Tier 2 (Optimize Snippet CTR)": 7415,
+    "Tier 3 (Expand Thin Content)": 250,
+    "Tier 4 (Monitor Healthy)": 15228
+  },
+  "senior_editorial_review_required": 14292,
+  "honest_model_precision_at_50": 0.64,
+  "naive_test_base_rate": 0.511
+}
